@@ -10,7 +10,7 @@ except ImportError:
 
 setup(
     name="py-update-notifier",
-    version="0.0.0",
+    version="0.1.0",
     description="update notifier for cli apps",
     long_description=read_md('README.md'),
     author="Walid Saad",
